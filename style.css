@@ -2,6 +2,18 @@
   border: 1px solid red;
 }
 
-.row-bigger{
+.bigger-10{
+  height: 10px;
+}
+
+.bigger-30{
+  height: 30px;
+}
+
+.bigger-50{
   height: 50px;
+}
+
+.font-sm-desc{
+  font-size: 9px;
 }
