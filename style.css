@@ -1,7 +1,3 @@
-*{
-  border: 1px solid red;
-}
-
 .bigger-10{
   height: 10px;
 }
@@ -16,4 +12,8 @@
 
 .font-sm-desc{
   font-size: 9px;
+}
+
+.font-md-desc{
+  font-size: 12px;
 }
